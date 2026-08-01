@@ -73,3 +73,4 @@ Core principles that strengthen an organization's overall defense posture.
 
 #### Conclusion
 The workshop proved to be an excellent professional development opportunity, underscoring how essential continuous learning is in the ever-evolving field of digital security.
+
