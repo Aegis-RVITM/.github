@@ -61,5 +61,5 @@ This section will link active club repositories as student teams begin work.
 Aegis welcomes students from every year and branch who want to learn by doing — whether that means breaking into a deliberately vulnerable web app, building a tool from scratch, or just sitting in on a workshop to see what the field is about. New members join through the club's annual induction and member drive.
 
 - Instagram: [@aegis_rvitm](https://www.instagram.com/aegis_rvitm?igsh=OHRsYnVicjl5eGNh)
-- LinkedIn: [Aegis RVITM](https://www.linkedin.com/company/aegis-rvitm/)
+- LinkedIn: [Aegis RVITM](https://www.linkedin.com/in/aegis-rvitm-31712825b/)
 - Website: *[link to be added]*
