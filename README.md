@@ -62,4 +62,4 @@ Aegis welcomes students from every year and branch who want to learn by doing â€
 
 - Instagram: [@aegis_rvitm](https://www.instagram.com/aegis_rvitm?igsh=OHRsYnVicjl5eGNh)
 - LinkedIn: [Aegis RVITM](https://www.linkedin.com/in/aegis-rvitm-31712825b/)
-- Website: *[link to be added]*
+- Website: [Aegis RVITM](https://aegisclub.vercel.app/)
