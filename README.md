@@ -19,7 +19,7 @@ Aegis also runs an annual five-day workshop, a different cybersecurity topic exp
 
 Aegis is guided by **Niharika P. Kumar**, Associate Professor in the Department of Information Science and Engineering, who has served as the club's Faculty Coordinator.
 
-The club is currently led by **Kishore Srinivasan** (Information Science and Engineering), as Club Head, supported by a core team of student leads who run the club's day-to-day activities, workshops, and technical direction. As with most student-run clubs, this core team changes as senior members graduate — leadership here reflects the current academic year.
+The club is currently led by **Yashash Mathur** (Information Science and Engineering), as Club Head, supported by a core team of student leads who run the club's day-to-day activities, workshops, and technical direction. As with most student-run clubs, this core team changes as senior members graduate — leadership here reflects the current academic year.
 
 ---
 
