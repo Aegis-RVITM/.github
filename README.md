@@ -54,7 +54,7 @@ Each repository under this organization is tagged with its segment, making it po
 
 Repositories are organized by segment and tagged using GitHub Topics, so they can be filtered directly from our repositories page. Each project has its own repository with its own README covering that project's specific details.
 
-[The-Vault](https://github.com/Aegis-RVITM/The-Vault)
+[The-Vault Prompt Injection Learning Lab](https://github.com/Aegis-RVITM/The-Vault)
 
 ## Get Involved
 
